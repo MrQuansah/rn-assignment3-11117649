@@ -48,4 +48,5 @@ All the styling is done using `StyleSheet` in React Native. The styles are appli
 - Colors and font sizes are chosen to provide a pleasant and readable UI.
 
 # Screenshots
-
+![alt text](image.png)
+![alt text](image-1.png)
